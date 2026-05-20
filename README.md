@@ -1,5 +1,3 @@
-CS student trying to figure it out
-
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nour5s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-ragab-4a9430385) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nourragab2811@gmail.com) 
