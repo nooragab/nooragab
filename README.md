@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 i'm a Computer Science student interested in AI and Backend Development.<br>Currently learning C#, ASP.NET Core, and exploring Machine Learning and Computer Vision.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-ragab) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nooragab) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nooragab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nourragab2811@gmail.com) 
 
 # 💻 Tech Stack:
