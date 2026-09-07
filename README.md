@@ -4,7 +4,6 @@ AI & .NET Developer
 </h4>
 
 <p align="center">
-Computer Science Student passionate about Artificial Intelligence, Computer Vision, and Software Development.
 </p>
 
 <div align="center">
@@ -32,10 +31,10 @@ I'm a Computer Science student interested in building intelligent and practical 
 💻 Developing backend applications with C# and ASP.NET Core.<br>
 🐍 Working with Python for Machine Learning and Deep Learning.<br>
 🌐 Exploring Full-Stack Development.<br>
-🚀 Always learning, building, and improving.
+
 </p>
 
-<h3 align="center">🧰 Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -55,7 +54,7 @@ I'm a Computer Science student interested in building intelligent and practical 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />
 </div>
 
-<h3 align="center">⚙️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
@@ -81,7 +80,7 @@ I'm a Computer Science student interested in building intelligent and practical 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
 </div>
 
-<h3 align="center">📫 Connect With Me</h3>
+<h3 align="center">Connect With Me</h3>
 
 <div align="center">
   <a href="mailto:nourragab2811@gamil.com">
