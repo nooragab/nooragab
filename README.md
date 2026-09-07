@@ -17,21 +17,7 @@ AI & .NET Developer
   </a>
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
+<br>
 
 <table align="center">
   <!-- Languages & Databases -->
@@ -119,3 +105,17 @@ AI & .NET Developer
   </tr>
 </table>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
+  />
+</picture>
