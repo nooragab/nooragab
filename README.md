@@ -1,3 +1,38 @@
+<h4 align="center">
+Hi, I'm Nour Ragab<br>
+AI & .NET Developer
+</h4>
+
+<p align="center">
+</p>
+
+<div align="center">
+  <a href="mailto:nourragab2811@gamil.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nour-ragab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://nooragab.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p>
+I'm a Computer Science student interested in building intelligent and practical software solutions.
+</p>
+
+<p>
+🤖 Passionate about AI, Machine Learning, and Computer Vision.<br>
+💻 Developing backend applications with C# and ASP.NET Core.<br>
+🐍 Working with Python for Machine Learning and Deep Learning.<br>
+🌐 Exploring Full-Stack Development.<br>
+</p>
+
 <h3 align="center">Languages & Tools</h3>
 
 <div align="center">
@@ -17,7 +52,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="SQL Server" />
 
-  <br><br>
+  <br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
   <img width="8" />
@@ -47,7 +82,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
 
-  <br><br>
+  <br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET" />
   <img width="8" />
@@ -56,4 +91,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="Three.js" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>Learn • Build • Experiment • Grow</i>
 </div>
