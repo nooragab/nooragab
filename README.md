@@ -5,9 +5,6 @@ AI & .NET Developer
 
 <p align="center">
 </p>
-
-<h3 align="center">Connect With Me</h3>
-
 <div align="center">
   <a href="mailto:nourragab2811@gamil.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
