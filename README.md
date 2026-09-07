@@ -19,17 +19,21 @@ AI & .NET Developer
 
 <br>
 
-<h3 align="left">👩‍💻 About Me</h3>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<p>
-I'm a Computer Science student interested in building intelligent and practical software solutions.
-</p>
-
-<p>
-🤖 Passionate about AI, Machine Learning, and Computer Vision.<br>
-💻 Developing backend applications with C# and ASP.NET Core.<br>
-🐍 Working with Python for Machine Learning and Deep Learning.<br>
-🌐 Exploring Full-Stack Development.<br>
 
 </p>
 
@@ -89,24 +93,4 @@ I'm a Computer Science student interested in building intelligent and practical 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
-</div>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
-<div align="center">
-  <i>Learn • Build • Experiment • Grow</i>
 </div>
