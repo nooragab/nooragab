@@ -37,6 +37,120 @@ AI & .NET Developer
 
 </p>
 
+<h3 align="center">Tech Stack</h3>
+
+<div align="center">
+  <table width="100%">
+    <!-- Row 1: Languages & Databases -->
+    <tr>
+      <td align="center" width="12.5%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"/><br>
+        Python
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px"/><br>
+        C#
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/><br>
+        JavaScript
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/><br>
+        HTML
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/><br>
+        CSS
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="30px"/><br>
+        SQL Server
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px"/><br>
+        MySQL
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/><br>
+        Git
+      </td>
+    </tr>
+
+    <!-- Row 2: AI & Machine Learning -->
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30px"/><br>
+        PyTorch
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30px"/><br>
+        TensorFlow
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="30px"/><br>
+        Scikit-learn
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30px"/><br>
+        NumPy
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30px"/><br>
+        Pandas
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="30px"/><br>
+        Matplotlib
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="30px"/><br>
+        OpenCV
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="30px"/><br>
+        Hugging Face
+      </td>
+    </tr>
+
+    <!-- Row 3: .NET & Backend -->
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30px"/><br>
+        .NET
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30px"/><br>
+        Flask
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px"/><br>
+        Bootstrap
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="30px"/><br>
+        Three.js
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/><br>
+        GitHub
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/><br>
+        VS Code
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30px"/><br>
+        Visual Studio
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30px"/><br>
+        Vercel
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h3 align="center">Languages & Tools</h3>
 
 <div align="center">
