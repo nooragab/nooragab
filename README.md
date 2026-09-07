@@ -1,6 +1,5 @@
 <h4 align="center">
-Hi, I'm Nour Ragab<br>
-AI & .NET Developer
+
 </h4>
 
 <p align="center">
