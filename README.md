@@ -62,7 +62,7 @@ I'm a Computer Science student interested in building intelligent and practical 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face" />
-  <img width="12" />
+  <img width="10" />
 </div>
 
 <h3 align="center">Tech Stack</h3>
