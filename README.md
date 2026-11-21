@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nour+Ragab....;Nice+to+meet+you!&center=true&size=30" alt="Typing animation" />
-</h1>
+</p>
 
 <h5 align="center">
   <code><a href="mailto:nourragab2811@gmail.com" title="Send me an Email"><img width="22" src="https://cdn.simpleicons.org/gmail/EA4335"> Gmail</a></code>
