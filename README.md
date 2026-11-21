@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg" style="text-decoration: none;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nour+Ragab....;Nice+to+meet+you!&center=true&size=30" alt="Typing animation" />
-  </a>
 </h1>
 
 <h5 align="center">
