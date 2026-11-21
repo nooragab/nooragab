@@ -1,92 +1,60 @@
-<h4 align="center">
-
-</h4>
-
-<p align="center">
-</p>
- <div align="center">
-  <a href="mailto:nourragab2811@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nour+Ragab....;Nice+to+meet+you!&center=true&size=30" alt="Typing animation" />
   </a>
-  <a href="https://www.linkedin.com/in/nour-ragab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://nooragab.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a> 
-</div>
+</h1>
+
+<h5 align="center">
+  <code><a href="mailto:nourragab2811@gmail.com" title="Send me an Email"><img width="22" src="https://cdn.simpleicons.org/gmail/EA4335">Gmail</a></code>
+  <code><a href="https://www.linkedin.com/in/nour-ragab/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">Linkedin</a></code>
+  <code><a href="https://nooragab.vercel.app/" title="Portfolio Website"><img width="22" src="https://cdn.simpleicons.org/vercel/888888">Portfolio</a></code>
+</h5>
 
 <br>
 
-<table align="center">
-  <!-- Languages & Databases -->
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="30"/>
-    </td>
-  </tr>
+<p align="center">
+  Hi, I'm Nour Ragab, Computer Science Student & Software Developer
+  <br>
+  <br>
+  🎓 I'm currently studying Computer Science at Damietta University
+  <br>
+  🤖 I'm interested in AI Engineering and building intelligent applications
+</p>
 
-  <!-- AI / Machine Learning -->
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="30"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="30"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="30"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="30"/>
-    </td>
-  </tr>
-</table>
+<br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<p align="center">
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
+  <code><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  <code><img title="SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"></code>
+  <code><img title="PyTorch" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
+  <code><img title="TensorFlow" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
+  <code><img title="scikit-learn" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"></code>
+  <code><img title="NumPy" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
+  <code><img title="Pandas" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
+  <code><img title="Matplotlib" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"></code>
+  <code><img title="OpenCV" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"></code>
+  <code><img title="Hugging Face" height="25" src="https://cdn.simpleicons.org/huggingface/FFD21E"></code>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
