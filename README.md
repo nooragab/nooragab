@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nour+Ragab....;Nice+to+meet+you!&center=true&size=30" alt="Typing animation" />
   </a>
 </h1>
-
 <h5 align="center">
   <code><a href="mailto:nourragab2811@gmail.com" title="Send me an Email"><img width="22" src="https://cdn.simpleicons.org/gmail/EA4335">Gmail</a></code>
   <code><a href="https://www.linkedin.com/in/nour-ragab/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">Linkedin</a></code>
   <code><a href="https://nooragab.vercel.app/" title="Portfolio Website"><img width="22" src="https://cdn.simpleicons.org/vercel/888888">Portfolio</a></code>
 </h5>
 
+<br>
 
 <p align="center">
   Hi, I'm Nour Ragab, Computer Science Student & Software Developer
