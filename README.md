@@ -1,12 +1,12 @@
-<p align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nour+Ragab....;Nice+to+meet+you!&center=true&size=30" alt="Typing animation" />
-</p>
+</h1>
 
-<p align="center">
+<h5 align="center">
   <code><a href="mailto:nourragab2811@gmail.com" title="Send me an Email"><img width="22" src="https://cdn.simpleicons.org/gmail/EA4335"> Gmail</a></code>
   <code><a href="https://www.linkedin.com/in/nour-ragab/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
   <code><a href="https://nooragab.vercel.app/" title="Portfolio Website"><img width="22" src="https://cdn.simpleicons.org/vercel/888888"> Portfolio</a></code>
-</p>
+</h5>
 
 <br>
 
