@@ -11,12 +11,9 @@
 <br>
 
 <p align="center">
-  Hi, I'm Nour Ragab, Computer Science Student & Software Developer
+  Hi, I'm Nour Ragab, a Computer Science student at Damietta University 🎓
   <br>
-  <br>
-  🎓 I'm currently studying Computer Science at Damietta University
-  <br>
-  🤖 I'm interested in AI Engineering and building intelligent applications
+  🤖 Interested in AI Engineering and software development.
 </p>
 
 <br>
@@ -53,6 +50,7 @@
     <img
       alt="GitHub contribution snake animation"
       src="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
+        width="900"
     />
   </picture>
 </p>
